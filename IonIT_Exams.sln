@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IonIT_Exams", "IonIT_Exams\IonIT_Exams.csproj", "{C170C611-C252-4248-B51E-822581EC09A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IonIT_Exams.Api", "IonIT_Exams.Api\IonIT_Exams.Api.csproj", "{6395FC28-EC64-4BEB-8A58-9D0BB888D6AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IonIT_Exams.Web", "IonIT_Exams.Web\IonIT_Exams.Web.csproj", "{CAA1304A-0608-4E94-9C9A-C9CF000A8B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C170C611-C252-4248-B51E-822581EC09A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C170C611-C252-4248-B51E-822581EC09A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C170C611-C252-4248-B51E-822581EC09A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C170C611-C252-4248-B51E-822581EC09A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6395FC28-EC64-4BEB-8A58-9D0BB888D6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6395FC28-EC64-4BEB-8A58-9D0BB888D6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6395FC28-EC64-4BEB-8A58-9D0BB888D6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6395FC28-EC64-4BEB-8A58-9D0BB888D6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA1304A-0608-4E94-9C9A-C9CF000A8B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA1304A-0608-4E94-9C9A-C9CF000A8B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA1304A-0608-4E94-9C9A-C9CF000A8B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA1304A-0608-4E94-9C9A-C9CF000A8B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
